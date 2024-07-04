@@ -1,0 +1,71 @@
+/* Google Font Family */
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Signika", sans-serif;
+}
+
+#main-section{
+    width: 500px;
+    /* border: 1px solid rgb(163, 161, 161); */
+    margin: 50px auto;
+    position: relative;
+    /* border-radius: 10px; */
+    /* background-color: #a7cef8; */
+}
+#menu-item{
+    border: 1px solid rgb(163, 161, 161);
+    border-radius: 10px;
+    margin-bottom: 8px;
+}
+
+#menu-item img{
+    width: 100%;
+    padding: 5px;
+    border-radius: 10px; 
+}
+
+#menu-content{
+  padding: 5px;  
+}
+
+#menu-content h2{
+    padding-bottom: 15px;
+    /* color: #FFFFFF; */
+    letter-spacing: 2px;
+    
+}
+#menu-content h2:hover{
+    text-decoration: underline;   
+}
+#menu-content p{
+    padding-bottom: 15px; 
+}
+
+#bestSeller{
+    font-size: large;
+    border: 1px solid orange;
+    color: white;
+    background-color: #1A3551;
+    padding:5px 12px ;
+    border-radius: 8px;
+    position: absolute;
+    top: 20px;
+    left: 15px;
+}
+
+#mustTry{
+    font-size: large;
+    border: 1px solid rgb(99, 142, 240);
+    color: white;
+    background-color: #0b868e;
+    padding:5px 12px ;
+    border-radius: 8px;
+    position: absolute;
+    top: 242px;
+    right: 2vw;
+}
+
+

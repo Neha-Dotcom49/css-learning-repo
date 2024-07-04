@@ -1,0 +1,94 @@
+/* Google Font Family */
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Signika", sans-serif;
+}
+#main-section{
+    width: 540px;
+    margin: 50px auto;  
+    border: 2px solid rgb(181, 176, 176);
+    padding: 20px;
+    border-radius: 8px;
+}
+#google{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+#g-letter{
+    color: rgb(94, 139, 211);
+    font-size: 30px;
+    
+}
+#o-letter{
+    color: rgb(197, 53, 13);
+    font-size: 30px;
+}
+#o1-letter{
+    color: rgb(232, 212, 24);
+    font-size: 30px;
+}
+#l-letter{
+    color: rgb(102, 145, 94);
+    font-size: 30px;
+}
+#e-letter{
+    color: rgb(197, 53, 13);
+    font-size: 30px;
+}
+#main-section h2{
+    text-align: center;
+}
+#icon-section{
+    display: inline-block;
+    padding-top: 10px;
+    align-items: center;
+    padding-left: 150px;
+    padding-right: 10px;
+    
+ }
+ #icon-section svg{
+    border-radius: 40px;
+    
+ }
+ #username{
+    display: inline-block;
+    text-decoration: underline;
+    padding-left: 0px;
+    color: rgb(34, 145, 213);
+    text-align: center;
+    padding-bottom: 30px;
+ }
+ #line{
+    border-top: 2px solid rgb(202, 199, 199);
+    padding: 0 20px 0 20px;
+ }
+ #content{
+    text-align: center;
+    padding: 20px 0 30px 0;
+ }
+ /* check activity button */
+ #Check-activity{
+    color: white;
+    background-color: rgb(66, 118, 195);
+    margin-left: 170px;
+    padding: 8px 30px;
+    font-size: larger;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 30px;
+ }
+ #activity{
+    text-align: center;
+ }
+ #linknotification{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(34, 145, 213);
+    padding-bottom: 40px;
+ }
+
+

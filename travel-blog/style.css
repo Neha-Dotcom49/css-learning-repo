@@ -1,0 +1,135 @@
+/* Google Font Family */
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Signika", sans-serif;
+}
+#main-section{
+    width: 800px;
+    margin: 50px auto;
+    position: relative;
+       
+}
+
+#travel-item img{
+    width: 100%;
+    padding: 5px;
+    border-radius: 30px;
+    border: 2px solid rgb(169, 164, 164);
+    margin-bottom: 15px; 
+}
+#explorer-now{
+    font-size: large;
+    border: 1px solid rgb(255, 253, 249);
+    color: rgb(21, 20, 20);
+    background-color: #f2f8ff;
+    padding:8px 18px ;
+    border-radius: 30px;
+    position: absolute;
+    top: 480px;
+    left: 330px;
+    
+}
+#content h2{
+    position: absolute;
+    top: 400px;
+    left: 180px;
+    letter-spacing: 2px;
+    color: white;
+    text-shadow: 2px 0 19px black;
+}
+#content p{
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 430px;
+    padding: 0px 80px 0 80px;
+    text-shadow: 8px 0 16px black;
+}
+#explorer-now1{
+    font-size: large;
+    border: 1px solid rgb(255, 253, 249);
+    color: rgb(21, 20, 20);
+    background-color: #f2f8ff;
+    padding:8px 18px ;
+    border-radius: 30px;
+    position: absolute;
+    top: 980px;
+    left: 330px;
+    
+}
+#content1 h2{
+    position: absolute;
+     top: 900px;
+    left: 330px; 
+    letter-spacing: 2px;
+    color: white;
+    text-shadow: 2px 0 19px black;
+}
+#content1 p{
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 930px;
+    padding: 0px 80px 0 80px;
+    text-shadow: 8px 0 16px black;
+}
+
+#explorer-now2{
+    font-size: large;
+    border: 1px solid rgb(255, 253, 249);
+    color: rgb(21, 20, 20);
+    background-color: #f2f8ff;
+    padding:8px 18px ;
+    border-radius: 30px;
+    position: absolute;
+    top: 201vh;
+    left: 330px;
+    
+}
+#content2 h2{
+    position: absolute;
+    top: 190vh;
+    left: 180px;
+    letter-spacing: 2px;
+    color: white;
+    text-shadow: 2px 0 19px black;
+}
+#content2 p{
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 195vh;
+    padding: 0px 80px 0 80px;
+    text-shadow: 8px 0 16px black;
+}
+#explorer-now3{
+    font-size: large;
+    border: 1px solid rgb(255, 253, 249);
+    color: rgb(21, 20, 20);
+    background-color: #f2f8ff;
+    padding:8px 18px ;
+    border-radius: 30px;
+    position: absolute;
+    top: 280vh;
+    left: 330px;
+    
+}
+#content3 h2{
+    position: absolute;
+    top: 269vh;
+    left: 300px;
+    letter-spacing: 2px;
+    color: white;
+    text-shadow: 2px 0 19px black;
+}
+#content3 p{
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 274vh;
+    padding: 0px 80px 0 80px;
+    text-shadow: 8px 0 16px black;
+}
